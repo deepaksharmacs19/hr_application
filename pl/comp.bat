@@ -1,0 +1,1 @@
+java -classpath ..\bl\build\libs\bl.jar;..\common\dist\hr-common.jar;..\dl\dist\hr-dl-1.0.jar;build\libs\pl.jar;libs\*;. com.thinking.machines.hr.pl.Main
